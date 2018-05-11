@@ -50,9 +50,10 @@ h1, h2{
     display:flex;
 
 }
-h2 {
+h2,p {
   font-size:2em;
 }
+
 
 button {
   background-color:#3F4499;
@@ -65,10 +66,4 @@ button {
 
 .startButton {
   margin-top:100px;
-
-
-}
-
-.display-none{
-  display:none;
 }
